@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU} {publications.html}
+
+= Publications
+
+== Submitted Papers
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. [https://arxiv.org/abs/2306.15723/ Approximate dynamic programming for constrained piecewise affine systems with stability and safety guarantees], /submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems/.
+
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. State-action control barrier functions: Imposing safety on learning-based control with low online computational costs, /submitted to IEEE Transactions on Automatic Control/.
+
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. Efficient and safe learning-based control of piecewise affine systems using optimization-free safety filters, /submitted to IEEE CDC 2024/.
+
+== Accepted Papers
+- [https://scholar.google.com/citations?hl=zh-CN&user=eIEb3owAAAAJ&view_op=list_works&sortby=pubdate/ Google Scholar]
+
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. [https://www.sciencedirect.com/science/article/pii/S0005109823006234/ Approximate dynamic programming for constrained linear systems: A piecewise quadratic approximation approach], /accepted by Automatica/.
+
+- *Kanghui He*, Yang Deng, Guanghan Wang, Xiangyu Sun, Yiyong Sun, Zhang Chen. [https://ieeexplore.ieee.org/document/9691391/ Learning-based trajectory tracking and balance control for bicycle robots with a pendulum: A Gaussian process approach], /IEEE Transactions on Mechatronics/. 
+
+- *Kanghui He*, Chaoyang Dong, Qing Wang, [https://www.sciencedirect.com/science/article/pii/S0016003221003227/ Anti-disturbance dynamic inversion backstepping control for uncertain pure-feedback systems via multiple extended state observers], /Journal of the Franklin Institute/.
+
+- *Kanghui He*, Chaoyang Dong, Qing Wang, [https://ieeexplore.ieee.org/document/9763481/ Active disturbance rejection control for uncertain nonlinear systems with sporadic measurements], /IEEE CAA Journal of Automatica Sinica/.
+
+- *Kanghui He*, Chaoyang Dong, Qing Wang, [https://link.springer.com/article/10.1007/s12555-019-0405-x/ Cascade integral predictors and feedback control for nonlinear systems with unknown time-varying input-delays], /International Journal of Control, Automation and Systems/.
+
+- *Kanghui He*, Chaoyang Dong, Qing Wang, [https://onlinelibrary.wiley.com/doi/full/10.1002/asjc.2514/ Active disturbance rejection adaptive control for uncertain nonlinear systems with unknown time‐varying dead‐zone input], /Asian Journal of Control/.
+
+- *Kanghui He*, Chaoyang Dong, An Yan, Qingyuan Zheng, Bin Liang, Qing Wang, [https://ieeexplore.ieee.org/document/9254787/ Composite deep learning control for autonomous bicycles by using deep deterministic policy gradient], /IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society/.
+
+- Yue Li, *Kanghui He*, Mingwei Ma, et. al, [https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14518/ Using deep learning to model the biological dose prediction on bulky lung cancer patients of partial stereotactic ablation radiotherapy], /Medical Physics/.
