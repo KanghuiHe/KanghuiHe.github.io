@@ -18,21 +18,22 @@ I am a PhD candidate under the supervision of Prof. [https://www.deschutter.info
 My PhD research topic is about learning-based control for piecewise affine systems with constraints. I am in the ERC advanced project "A novel control paradigm for large-scale hybrid networks" ([https://cordis.europa.eu/project/id/101018826/ CLariNet]).
 
 === Research Interests
-- control under constraints
-- reinforcement learning
-- hybrid systems
-- anti-disturbance control
-- hybrid systems
-- autonomous driving
-- flight control
+
+My main interests involve developing learning-based control methods with safety guarantees and computational efficiency, and their applications in autonomous driving. I use tools from control theory (model predictive control, control barrier functions), optimization (mixed-integer and stochastic programming), and machine learning (reinforcement learning, Gaussian process).
 
 
 
 === Recent News
 ~~~
-- *November. 2023* I propose a [https://drive.google.com/file/d/1feGRN3VqMDWLniLTGDhUgQsZmAorAl-b/view?usp=drive_link/ master project] on safe reinforcement learning for autonomous driving. Please contact me if you are searching for a master project.
+- *Feb. 2025* I will go to KU Leuven for a short research visit, where I will address safety reinforcement learning with probabilistic guarantees with Prof. [https://www.esat.kuleuven.be/sista/members/suykens.html/ Johan Suykens].
 
-- *October. 2023* My recent work "Approximate Dynamic Programming for Constrained Linear Systems: A Piecewise Quadratic Approximation Approach" was accepted by Automatica 
+- *Dec. 2024* I present at IEEE CDC 2024 on our paper "Efficient and safe learning-based control of piecewise affine systems using optimization-free safety filters".
+
+- *Oct 2024* My recent work "Approximate dynamic programming for constrained piecewise affine systems with stability and safety guarantees" was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+
+- *Nov. 2023* I propose a [https://drive.google.com/file/d/1feGRN3VqMDWLniLTGDhUgQsZmAorAl-b/view?usp=drive_link/ master project] on safe reinforcement learning for autonomous driving. Please contact me if you are searching for a master project.
+
+- *Oct. 2023* My recent work "Approximate dynamic programming for constrained linear systems: a piecewise quadratic approximation approach" was accepted by Automatica 
 ~~~
 
 ~~~
