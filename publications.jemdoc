@@ -3,12 +3,13 @@
 = Publications
 
 == Submitted Papers
-- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. State-action control barrier functions: Imposing safety on learning-based control with low online computational costs, /submitted to IEEE Transactions on Automatic Control/.
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. SFrom learning to safety: A Direct Data-Driven Framework for Constrained Control, /submitted to IEEE Transactions on Automatic Control/.
 
 
 == Accepted Papers
 - [https://scholar.google.com/citations?hl=zh-CN&user=eIEb3owAAAAJ&view_op=list_works&sortby=pubdate/ Google Scholar]
 
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. State-action control barrier functions: Imposing safety on learning-based control with low online computational costs, /conditionally accepted by IEEE Transactions on Automatic Control/.
 
 - *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. [https://www.sciencedirect.com/science/article/pii/S0005109823006234/ Approximate dynamic programming for constrained linear systems: A piecewise quadratic approximation approach], /accepted by Automatica/.
 
@@ -29,3 +30,6 @@
 - *Kanghui He*, Chaoyang Dong, An Yan, Qingyuan Zheng, Bin Liang, Qing Wang, [https://ieeexplore.ieee.org/document/9254787/ Composite deep learning control for autonomous bicycles by using deep deterministic policy gradient], /IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society/.
 
 - Yue Li, *Kanghui He*, Mingwei Ma, et. al, [https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14518/ Using deep learning to model the biological dose prediction on bulky lung cancer patients of partial stereotactic ablation radiotherapy], /Medical Physics/.
+
+== Book Chapter
+- [https://link.springer.com/book/9783031826801/ Nonlinear and Constrained Control - Applications, Synergies, Challenges and Opportunities].
