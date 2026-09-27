@@ -21,7 +21,14 @@ My Postdoc research: [https://www.nwo.nl/en/projects/rkcdr01201/ Integrated Lear
 
 My main interests involve developing learning-based control methods with safety guarantees and computational efficiency, and their applications in mobile robots. I use tools from control theory (model predictive control, control barrier functions), optimization (mixed-integer programming, parametric programming, stochastic programming), and machine learning (reinforcement learning, Gaussian process).
 
+=== Master 
 
+I am actively looking for supervision of master's thesis projects at the University of Oxford (can be remote). Please see the [https://drive.google.com/file/d/1VKvVwAtupN0v70RYK-wdrLpyxNEmkC1c/view?usp=sharing/ description of master's projects]. Feel free to contact me if you are interested. The topics include 
+
+- generative policies for robot planning
+- integrated RL and MPC for vehicle–traffic coordination
+- machine learning for speeding up mixed-integer optimization with applications in multi-contact robots
+- Safe learning and control in latent-space world Models,
 
 === Recent News
 ~~~
