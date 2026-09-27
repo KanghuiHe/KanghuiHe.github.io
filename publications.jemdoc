@@ -3,15 +3,19 @@
 = Publications
 
 == Submitted Papers
-- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. SFrom learning to safety: A Direct Data-Driven Framework for Constrained Control, /submitted to IEEE Transactions on Automatic Control/.
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. Learning State-Action Control Barrier Functions for Model-Free Control under Constraints, /submitted to IEEE Transactions on Automatic Control/.
+
+- Francesco Cordiano, *Kanghui He*, Bart De Schutter. On the Value Function of Infinite-Horizon Optimal Control of Piecewise Affine Systems, /submitted to IEEE Transactions on Automatic Control/.
+
+- Francesco Cordiano, *Kanghui He*, Bart De Schutter. Learning-Based Stochastic Optimal Control with Infinite-Horizon Probabilistic Constraints, /submitted to IEEE Transactions on Automatic Control/.
 
 
 == Accepted Papers
 - [https://scholar.google.com/citations?hl=zh-CN&user=eIEb3owAAAAJ&view_op=list_works&sortby=pubdate/ Google Scholar]
 
-- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. State-action control barrier functions: Imposing safety on learning-based control with low online computational costs, /conditionally accepted by IEEE Transactions on Automatic Control/.
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. State-action control barrier functions: Imposing safety on learning-based control with low online computational costs, /IEEE Transactions on Automatic Control/.
 
-- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. [https://www.sciencedirect.com/science/article/pii/S0005109823006234/ Approximate dynamic programming for constrained linear systems: A piecewise quadratic approximation approach], /accepted by Automatica/.
+- *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. [https://www.sciencedirect.com/science/article/pii/S0005109823006234/ Approximate dynamic programming for constrained linear systems: A piecewise quadratic approximation approach], /Automatica/.
 
 - *Kanghui He*, Shengling Shi, Ton van den Boom, Bart De Schutter. [https://arxiv.org/abs/2306.15723/ Approximate dynamic programming for constrained piecewise affine systems with stability and safety guarantees], /IEEE Transactions on Systems, Man, and Cybernetics: Systems/.
 
