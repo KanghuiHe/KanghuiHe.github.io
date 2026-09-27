@@ -21,7 +21,7 @@ My Postdoc research: [https://www.nwo.nl/en/projects/rkcdr01201/ Integrated Lear
 
 My main interests involve developing learning-based control methods with safety guarantees and computational efficiency, and their applications in mobile robots. I use tools from control theory (model predictive control, control barrier functions), optimization (mixed-integer programming, parametric programming, stochastic programming), and machine learning (reinforcement learning, Gaussian process).
 
-=== Master 
+=== Master Projects
 
 I am actively looking for supervision of master's thesis projects at the University of Oxford (can be remote). Please see the [https://drive.google.com/file/d/1VKvVwAtupN0v70RYK-wdrLpyxNEmkC1c/view?usp=sharing/ description of master's projects]. Feel free to contact me if you are interested. The topics include 
 
@@ -37,8 +37,6 @@ I am actively looking for supervision of master's thesis projects at the Univers
 - *Dec. 2024* I present at IEEE CDC 2024 on our paper "Efficient and safe learning-based control of piecewise affine systems using optimization-free safety filters".
 
 - *Oct 2024* My recent work "Approximate dynamic programming for constrained piecewise affine systems with stability and safety guarantees" was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
-
-- *Nov. 2023* I propose a [https://drive.google.com/file/d/1feGRN3VqMDWLniLTGDhUgQsZmAorAl-b/view?usp=drive_link/ master project] on safe reinforcement learning for autonomous driving. Please contact me if you are searching for a master project.
 
 - *Oct. 2023* My recent work "Approximate dynamic programming for constrained linear systems: a piecewise quadratic approximation approach" was accepted by Automatica 
 ~~~
